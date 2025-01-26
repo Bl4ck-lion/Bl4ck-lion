@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Rama Agung Supriyadi from Indonesian<br><br>- 🔭 I’m working as student highschol.<br>- 📚 I'm currently learning Artificial Intelleget<br>-.</p>
+<p align="left">I'm Rama Agung Supriyadi from Indonesian<br><br>- 🔭 I’m  as student highschol.<br>- 📚 I'm currently learning Artificial Intelleget and Cyber Security<br>-.</p>
 
 ###
 
